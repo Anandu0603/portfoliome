@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Setup
     
     To run this project, follow these steps:
@@ -7,3 +8,6 @@
     3. Run `npm run dev` to start the development server.
     
     This project was generated through Alpha. For more information, visit [dualite.dev](https://dualite.dev).
+=======
+# portfoliome
+>>>>>>> c20b5b22cdf69db7ad6801e0e59f05348adb12a2
