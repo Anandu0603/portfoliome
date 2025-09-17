@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Anandu Suresh",
   title: "Full-Stack Software Engineer",
-  profilePicture: "/src/assets/profile.jpg",
+  profilePicture: "/assets/profile.jpg",
   email: "anandusuresh510@gmail.com",
   socials: [
     { name: "GitHub", url: "https://github.com/Anandu0603", icon: "Github" },
@@ -24,7 +24,7 @@ export const aboutData = {
     "I specialize in the MERN stack, enjoying both the challenge of architecting resilient backend systems and crafting seamless, intuitive user experiences on the frontend. I find great satisfaction in solving complex problems and turning ideas into tangible, high-impact web applications.",
     "With an MCA and hands-on experience, I'm constantly learning and exploring new technologies to refine my skills and optimize development workflows.",
   ],
-  image: "/src/assets/profile.jpg",
+  image: "/assets/profile.jpg",
 };
 
 export const educationData = [
